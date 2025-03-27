@@ -2,15 +2,18 @@
 <h3>🚀 Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/java-023E73?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-F2D230?style=for-the-badge&logo=python&logoColor=White">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-F2D230?style=for-the-badge&logo=python&logoColor=White">
   <img src="https://img.shields.io/badge/delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white">
 </p>
 
 <h3>📚 Libraries & Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+  <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/oAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white">
   <img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
+  <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
