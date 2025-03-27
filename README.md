@@ -41,3 +41,10 @@
 
 | <a href="https://github.com/ooyniz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ooyniz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ooyniz's github stats" /></a> | <a href="https://github.com/ooyniz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyniz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ooyniz&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ooyniz"
+  width="600"
+  height="300"
+/>
+</a>
